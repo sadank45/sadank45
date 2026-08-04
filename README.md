@@ -71,14 +71,10 @@ location: [Bengaluru, Remote, Relocation-friendly]
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
 **Backend & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cloud, DevOps & Tooling**
@@ -92,22 +88,6 @@ location: [Bengaluru, Remote, Relocation-friendly]
 
 `──────────────────────────────────────────────`
 
-</div>
-
-## 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM Integration** | ⭐⭐⭐⭐ | GPT-4o question generation & scoring pipelines, prompt engineering for structured outputs |
-| **Signal Processing** | ⭐⭐⭐⭐ | EMG signal classification for prosthetic control (HASTRA research) |
-| **Applied ML** | ⭐⭐⭐ | Bayesian learning, clustering, neural networks, reinforcement learning fundamentals |
-| **Multi-Agent Systems** | ⭐⭐⭐ | LangGraph-based agent orchestration (Forge platform) |
-| **Vector Search** | ⭐⭐⭐ | Qdrant-based retrieval for agentic workflows |
-| **HCI + Control Systems** | ⭐⭐⭐⭐ | PID control, multi-modal decision fusion, fatigue compensation |
-
-<div align="center">
-
-`──────────────────────────────────────────────`
 
 </div>
 
@@ -131,24 +111,6 @@ Built with a focus on realistic interview simulation — parsing a candidate's r
 </details>
 
 <details>
-<summary><b>📊 PR Insights Dashboard — GitHub PR Health Analytics</b></summary>
-<br/>
-
-A full-stack analytics platform that scores and visualizes GitHub pull request health using OAuth-authenticated repository data.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | FastAPI, Next.js 14, PostgreSQL |
-| **Core Features** | GitHub OAuth with encrypted token storage, PR health scoring engine, git-diff-themed UI |
-| **DevOps** | GitHub Actions CI/CD, Render Blueprint deployment |
-| **Testing** | `respx`-based test suite |
-| **Repository** | [github.com/sadank45](https://github.com/sadank45) |
-
-Designed as a recruiter-facing systems project — demonstrates OAuth security handling, a custom scoring engine, and full CI/CD ownership from API to deployed frontend.
-
-</details>
-
-<details>
 <summary><b>🦾 HASTRA — Pneumatic Prosthetic Arm with HCI Integration</b></summary>
 <br/>
 
@@ -162,23 +124,6 @@ Final-year research project: a pneumatically actuated prosthetic arm with EMG-ba
 | **Team** | 4-person team, guided by faculty at RNSIT |
 
 Focused on making prosthetic control more natural by fusing multiple signal modalities and compensating for user fatigue in real time.
-
-</details>
-
-<details>
-<summary><b>🔧 Forge — Autonomous Multi-Agent AI Engineering Platform</b></summary>
-<br/>
-
-A system-design-level project exploring autonomous multi-agent collaboration for software engineering tasks.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | LangGraph, Qdrant, FastAPI, Next.js |
-| **Core Features** | Multi-agent orchestration, vector-based context retrieval, agentic task planning |
-| **Scope** | Designed with a 16-week phased build roadmap |
-| **Repository** | [github.com/sadank45](https://github.com/sadank45) |
-
-Architected as a systems-level exploration of agent orchestration patterns — coordinating specialized agents through a shared vector context store.
 
 </details>
 
@@ -203,43 +148,6 @@ Shipped end-to-end, including resolving CI/CD workflow issues and Pages configur
 
 `──────────────────────────────────────────────`
 
-</div>
-
-## 💼 Experience
-
-> _Add your internship / work experience here in the format below:_
-
-**Job Title · Company Name**
-`Date Range`
-
-Brief professional description of the role and impact.
-
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
-
-`Skill Tag` `Skill Tag` `Skill Tag`
-
-<div align="center">
-
-`──────────────────────────────────────────────`
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| _Add achievement_ | _e.g., Hackathon win, paper acceptance, dean's list_ |
-| _Add achievement_ | _e.g., Open source contribution recognition_ |
-
-</div>
-
-<div align="center">
-
-`──────────────────────────────────────────────`
 
 </div>
 
@@ -268,23 +176,6 @@ Brief professional description of the role and impact.
 
 </div>
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/your-handle)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-handle)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-handle)
-
-</div>
-
-<div align="center">
-
-`──────────────────────────────────────────────`
-
-</div>
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -302,49 +193,7 @@ Brief professional description of the role and impact.
 
 `──────────────────────────────────────────────`
 
-</div>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadank45&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<div align="center">
-
-`──────────────────────────────────────────────`
-
-</div>
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadank45&theme=react-dark&bg_color=0D0D1A&color=A78BFA&line=8B5CF6&point=E5E5F0&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-`──────────────────────────────────────────────`
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sadank45/sadank45/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> _To activate: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named `sadank45/sadank45` to auto-generate this snake SVG._
-
-<div align="center">
-
-`──────────────────────────────────────────────`
 
 </div>
 
